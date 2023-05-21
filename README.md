@@ -5,6 +5,7 @@ Atividade: Desenvolver uma landing page de página única utilizando HTML e CSS 
 
 
 Partes obrigatórias do site:
+
 • Título (nome da aba);
 
 • Imagens do produto/serviço/empresa (mínimo 2 imagens);
